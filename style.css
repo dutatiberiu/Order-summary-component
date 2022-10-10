@@ -54,6 +54,7 @@ body {
 .content p.text {
     color: #868383;
     margin-bottom: 1.563rem;
+    line-height: 1.5;
 }
 
 .planBox {
@@ -88,7 +89,6 @@ body {
 
 .planBox a{
     font-weight: 900;
-    color: hsl(223, 47%, 23%);
     transition: color .3s ease;
 }
 
